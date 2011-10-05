@@ -1,5 +1,5 @@
 Madfortunate::Application.routes.draw do
-  # The priority is based upon order of creation:
+  # The priority is based upon order ofcreation:
   # first created -> highest priority.
 
   # Sample of regular route:
