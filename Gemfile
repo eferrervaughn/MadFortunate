@@ -9,6 +9,9 @@ gem 'mysql2'
 
 gem 'json'
 
+gem 'slim', '=1.0.2'
+
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
