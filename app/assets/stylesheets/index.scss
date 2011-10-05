@@ -1,0 +1,37 @@
+/* main background image */
+html {
+ background: url(/assets/lights.jpg) no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+#main-container {
+	width: 300px;
+	height: 200px;
+	position: relative;
+	margin: 50px auto;
+	
+	#holder{
+		margin-top: 40px;
+		position: absolute;
+	}
+	
+	#title{
+		color: linen;
+		font-size: 42px;
+		font-family: Helvetica;
+		margin: 10px;
+		border-bottom: 2px solid tan;
+		text-align: center; 
+	}
+	
+	#description {
+	color: white;
+	font-size: 24px;
+	font-family: Helvetica;
+	margin: 10px;
+	text-align: center;
+	}
+}
